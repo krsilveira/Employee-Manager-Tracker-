@@ -13,15 +13,15 @@ This Project is an Employee Manager Tracker built using Javascript with an SQL b
 ## Installations
 
 Users will need to install npm libraries. Then, create a .env file (with .gitignore). Include entries for the employee_db database as well filing in your own mysql username and password in the connection.js file. These are the set-up CLI Commands for project root directory:
-> npm i<b>
-> cd db<b>
-> mysql -u root -p then, enter password<b>
-> SOURCE schema.sql<b>
-> SOURCE seeds.sql<b>
-> exit<b>
-> cd ..<b>
-> clear<b>
-> node index or node index.js<b>
+> npm i<br>
+> cd db<br>
+> mysql -u root -p then, enter password<br>
+> SOURCE schema.sql<br>
+> SOURCE seeds.sql<br>
+> exit<br>
+> cd ..<br>
+> clear<br>
+> node index or node index.js<br>
 
 ## User Story
 ```
